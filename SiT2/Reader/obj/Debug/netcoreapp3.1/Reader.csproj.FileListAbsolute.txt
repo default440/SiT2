@@ -1,0 +1,13 @@
+P:\C#\SiT2\Reader\bin\Debug\netcoreapp3.1\Reader.exe
+P:\C#\SiT2\Reader\bin\Debug\netcoreapp3.1\Reader.deps.json
+P:\C#\SiT2\Reader\bin\Debug\netcoreapp3.1\Reader.runtimeconfig.json
+P:\C#\SiT2\Reader\bin\Debug\netcoreapp3.1\Reader.runtimeconfig.dev.json
+P:\C#\SiT2\Reader\bin\Debug\netcoreapp3.1\Reader.dll
+P:\C#\SiT2\Reader\bin\Debug\netcoreapp3.1\Reader.pdb
+P:\C#\SiT2\Reader\obj\Debug\netcoreapp3.1\Reader.csprojAssemblyReference.cache
+P:\C#\SiT2\Reader\obj\Debug\netcoreapp3.1\Reader.AssemblyInfoInputs.cache
+P:\C#\SiT2\Reader\obj\Debug\netcoreapp3.1\Reader.AssemblyInfo.cs
+P:\C#\SiT2\Reader\obj\Debug\netcoreapp3.1\Reader.csproj.CoreCompileInputs.cache
+P:\C#\SiT2\Reader\obj\Debug\netcoreapp3.1\Reader.dll
+P:\C#\SiT2\Reader\obj\Debug\netcoreapp3.1\Reader.pdb
+P:\C#\SiT2\Reader\obj\Debug\netcoreapp3.1\Reader.genruntimeconfig.cache

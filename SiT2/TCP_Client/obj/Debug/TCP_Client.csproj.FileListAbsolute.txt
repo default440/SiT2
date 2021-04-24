@@ -1,0 +1,10 @@
+P:\C#\SiT2\TCP_Client\bin\Debug\TCP_Client.exe.config
+P:\C#\SiT2\TCP_Client\bin\Debug\TCP_Client.exe
+P:\C#\SiT2\TCP_Client\bin\Debug\TCP_Client.pdb
+P:\C#\SiT2\TCP_Client\obj\Debug\TCP_Client.csprojAssemblyReference.cache
+P:\C#\SiT2\TCP_Client\obj\Debug\TCP_Client.Form1.resources
+P:\C#\SiT2\TCP_Client\obj\Debug\TCP_Client.Properties.Resources.resources
+P:\C#\SiT2\TCP_Client\obj\Debug\TCP_Client.csproj.GenerateResource.cache
+P:\C#\SiT2\TCP_Client\obj\Debug\TCP_Client.csproj.CoreCompileInputs.cache
+P:\C#\SiT2\TCP_Client\obj\Debug\TCP_Client.exe
+P:\C#\SiT2\TCP_Client\obj\Debug\TCP_Client.pdb
